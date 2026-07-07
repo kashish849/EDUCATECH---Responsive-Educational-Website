@@ -38,7 +38,7 @@ EDUCATECH/
 3. Open `index.html` in any web browser.
 
 ## 👨‍💻 Developed By
-Kashish Sandeep
+Kashish 
 
 ## 🎓 Internship
 DecodeLabs Full Stack Developer Internship
